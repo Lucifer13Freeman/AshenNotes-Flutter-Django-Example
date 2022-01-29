@@ -15,6 +15,6 @@ envname\scripts\activate
 
 pip install -r requirements.txt
 
-You also need set your credentials for database in ashen_notes/settings.py
+You also need set your credentials for database and Django secret key in ashen_notes/settings.py
 
 python manage.py runserver
